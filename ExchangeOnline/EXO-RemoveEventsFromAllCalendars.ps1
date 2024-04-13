@@ -2,7 +2,7 @@
 The purpose of this script is to search all user calendars for specific events and remove them.
 
 -----------------------
-Nick Ortiz, Quisitive. 
+Nick Ortiz
 2024-02-07: Initial version
 
 By default the script will run in scan mode but you can change  removal by updateding:
